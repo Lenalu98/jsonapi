@@ -1,0 +1,13 @@
+.idea*
+.DS_Store
+.venv*
+test_ignore/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
+#dist/
+
+build/
+*.egg-info/
